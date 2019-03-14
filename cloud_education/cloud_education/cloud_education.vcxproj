@@ -154,10 +154,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="file_manager.c" />
     <ClCompile Include="main.c" />
+    <ClCompile Include="note_manager.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="common.h" />
+    <ClInclude Include="file_manager.h" />
+    <ClInclude Include="note_manager.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="..\lib\libxml2.lib" />
+    <Library Include="..\lib\libxml2_a.lib" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
