@@ -2,23 +2,23 @@
 
  <note>
   <index>1</index>
-  <category>food</category>
-  <text>ÇŸÇ…Ç·ÇÁÇÁ</text>
-Å@<image>sample.png</image>
+  <category>3</category>
+  <text>„Åª„Å´„ÇÉ„Çâ„Çâ</text>
+„ÄÄ<image>sample.png</image>
  </note>
 
  <note>
   <index>2</index>
-  <category>food</category>
-  <text>ÇŸÇ…Ç·ÇÁÇÁ</text>
-Å@<image>sample.png</image>
+  <category>2</category>
+  <text>„Åª„Å´„ÇÉ„Çâ„Çâ</text>
+„ÄÄ<image>sample.png</image>
  </note>
  
  <note>
   <index>3</index>
-  <category>food</category>
-  <text>ÇŸÇ…Ç·ÇÁÇÁ</text>
-Å@<image>sample.png</image>
+  <category>1</category>
+  <text>„Åª„Å´„ÇÉ„Çâ„Çâ</text>
+„ÄÄ<image>sample.png</image>
  </note>
 
 </xml>
